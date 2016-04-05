@@ -6004,4 +6004,27 @@ td.visible-print {
 .jumbotron {
   margin: 50px auto 0 auto;
 }
+
+#head2 {
+  background-color: #4682B4 ;
+  color:white;
+  text-align: center;
+  padding: 5px;
+}
+#nav2 {
+  line height: 50px;
+  background-color: lightgray;
+  height: 1250px;
+  width: 100px;
+  float: left;
+  padding: 5px;
+  color: #4682B4;
+}
+#nav3 {
+  height: 168px;
+  width: 1000px;
+}
+
+
+
 /*# sourceMappingURL=/styles/main.css.map */
